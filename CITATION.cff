@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this analysis pipeline or reference this work, please cite it as below."
+title: "MTT Assay Analysis: MG-63 Osteoblast Viability on TiO2/Sr Electrospun-Coated 316L Stainless Steel"
+type: software
+authors:
+  - family-names: "Rofoee"
+    given-names: "Shahrzad"
+date-released: 2026-07-12
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/Shahrzad-Rofoee/mtt-mg63-viability-analysis"
+abstract: >
+  A reproducible Python statistical analysis pipeline (descriptive statistics,
+  Shapiro-Wilk normality testing, Levene's test, one-way ANOVA, Tukey HSD
+  post-hoc comparisons, and proliferation t-tests) applied to original MTT
+  cytocompatibility assay data measuring MG-63 osteoblast-like cell viability
+  on 316L stainless steel coated with electrospun TiO2 and strontium-doped
+  TiO2 nanofibers (single-nozzle and dual-nozzle configurations), generated
+  as part of M.Sc. thesis research on orthopedic implant surface
+  modification.
+keywords:
+  - MTT assay
+  - cell viability
+  - MG-63
+  - TiO2 nanofibers
+  - strontium doping
+  - electrospinning
+  - 316L stainless steel
+  - orthopedic implants
+  - biomaterials
